@@ -1,17 +1,12 @@
-{{-- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-</head>
-<body>
-    <h1>{{$name}}</h1>
-    <form action="send" method="post">
-        @csrf;
-     <input type="text" name="myName">
-     <input type="submit" value="send">
-    </form>
-</body>
-</html> --}}
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+
+            <!-- Branding Image -->
+            <a class="navbar-brand" href="#">
+                Task List
+            </a>
+        </div>
+
+    </div>
+</nav>
